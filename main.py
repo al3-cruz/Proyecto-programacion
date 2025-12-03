@@ -1,4 +1,3 @@
-# Importar todos los módulos necesarios
 import modulo_acceso
 import modulo_contraseñas
 import modulo_analizador
@@ -101,4 +100,5 @@ def ejecutar_sistema():
             print("\n Opción no válida. Intente nuevamente.")
 
 if __name__ == "__main__":
+
     ejecutar_sistema()
