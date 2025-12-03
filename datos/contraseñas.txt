@@ -1,0 +1,12 @@
+
+ SAFEKEY VAULT+ - REGISTRO DE CONTRASEÑAS
+Fecha de exportación: 2025-12-03 16:39:37
+REGISTRO #1
+Servicio: Google
+Usuario: Alejandro Kevin Cruz Grimaldez
+Contraseña CIFRADA: qEVj$$xg_2-bQUF
+Método: 1
+Fecha: 2025-12-03 16:38:56
+Fortaleza: Muy fuerte
+----------------------------------------
+
